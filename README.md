@@ -30,11 +30,11 @@ samples, guidance on mobile development, and a full API reference.
 
 ---
 
-## 📸 شاشات التطبيق (Screenshots)
+## 📸 بعض شاشات التطبيق (Screenshots)
 
 | تفاصيل الموقع | الواجهة النهارية | الواجهة الليلية |
 | :---: | :---: | :---: |
-| <img src="screenshots/location_details.jpg" width="250"> | <img src="screenshots/light_map.jpg" width="250"> | <img src="screenshots/dark_map.jpg" width="250"> |
+| <img src="assets/screenshots/Screenshot1.png" width="250"> | <img src="assets/screenshots/Screenshot2.png" width="250"> | <img src="assets/screenshots/Screenshot3.png" width="250"> |
 
 > **ملاحظة:** يرجى تغيير أسماء ملفات الصور في الكود أعلاه لتطابق الأسماء الموجودة في مجلد `screenshots` بمشروعك.
 
